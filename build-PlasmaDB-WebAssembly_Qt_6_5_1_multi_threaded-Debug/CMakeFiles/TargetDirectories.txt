@@ -1,0 +1,9 @@
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/PlasmaDB.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/edit_cache.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/rebuild_cache.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/list_install_components.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/install.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/install/local.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/install/strip.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/PlasmaDB_autogen_timestamp_deps.dir
+E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/CMakeFiles/PlasmaDB_autogen.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+3	1744	7108581204654172	PlasmaDB_autogen/timestamp	5cc4abe2af8c6fb2
+3	1744	7108581204654172	PlasmaDB_autogen/mocs_compilation.cpp	5cc4abe2af8c6fb2
+3	1744	7108581204654172	E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/PlasmaDB_autogen/timestamp	5cc4abe2af8c6fb2
+3	1744	7108581204654172	E:/Github/Qt-Projects/build-PlasmaDB-WebAssembly_Qt_6_5_1_multi_threaded-Debug/PlasmaDB_autogen/mocs_compilation.cpp	5cc4abe2af8c6fb2
+1752	4519	7108581233732314	CMakeFiles/PlasmaDB.dir/main.cpp.o	1deac14be89a935c
+1745	4615	7108581234685177	CMakeFiles/PlasmaDB.dir/PlasmaDB_autogen/mocs_compilation.cpp.o	92ac894ad096218f
+1758	4851	7108581237044921	CMakeFiles/PlasmaDB.dir/mainwindow.cpp.o	6e5181f13ee2f5af
+4852	8114	7108581269869641	PlasmaDB.js	aa67d9273892bdcc

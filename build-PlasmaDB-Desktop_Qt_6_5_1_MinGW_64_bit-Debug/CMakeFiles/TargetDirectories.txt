@@ -1,0 +1,9 @@
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/PlasmaDB.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/PlasmaDB_autogen_timestamp_deps.dir
+E:/Github/Qt-Projects/build-PlasmaDB-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/PlasmaDB_autogen.dir
